@@ -112,34 +112,54 @@ ciò che tocco lo rovino</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto prematuro ed incubatrice</span>
-non degni di essere amati</p>
-    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto</span>
-farsi piccoli per non disturbare</p>
-    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto</span>
-voler compiacere tutti per essere amati</p>
-    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto cesareo</span>
-sentirsi inferiore</p>
-    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto distocico</span>
-tendenza a subire</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto prematuro ed incubatrice
+      </span>non degni di essere amati
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto con il forcipe/forzato
+      </span>Bisogno di essere aiutati per uscire da situazioni difficili
+    </p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto con il forcipe/forzato
+      </span>cadere nella DISPERAZIONE al pensiero di non farcela
+    </p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto
+      </span>farsi piccoli per non disturbare</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto
+      </span>voler compiacere tutti per essere amati</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto cesareo
+      </span>sentirsi inferiore</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ 
+      <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto distocico
+      </span>tendenza a subire</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
-    <p>accogliere Amore Universale --></p>
+    <p>accogliere Amore Universale--> </p>
+    <p>avere fiducia--> </p>
+    <p>sapere che c’è sempre una soluzione--> </p>
     <p>saper mettere dei confini --></p>
     <p><href id="id_accettarsi">accettarsi</href> nell'essere come si è e riuscire a vedere la propria bellezza; amarsi --></p>
     <p>perché non capaci --></p>
     <p>avere il coraggio di comprendere le cose --></p>
   </div>
   <div class="w3-col w3-container m3 l3"> 
-    <p>&nbsp;controllare allineamento colonna, (seconda riga è giusta!)</p> 
+    <p>&nbsp;(seconda e terza riga giuste!)</p> 
     <p class="w3-text-red">MEMORIE CELLULARI|DEL COCCIGE</p>
+    <p class="w3-text-red w3-tooltip">RICONCILIARSI <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-blue w3-round">Aiuta a lasciarsi andare e ad affidarsi alla vita</span> CON L'OCCULTO </p>
+    <p class="w3-text-red w3-tooltip">SERENITA' DEL CUORE, RICONCILIARSI <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-blue w3-round">Aiuta a lasciarsi andare e ad affidarsi alla vita</span> CON L'OCCULTO</p>
+    <p>&nbsp;</p>
     <p>RISPETTO DI SE', <span class="w3-text-red">RIVELAZIONE SCHEMI INCONSCI( vittimismo )</span></p>
     <p>PETALI del 6°, <span class="w3-text-red">RIVELAZIONE SCHEMI INCONSCI( vittimismo )</span></p>
   </div>
   <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip">MATRICE <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">fiducia in sè per passare all'azione</span>SOLARE</p>
     <p>IL MIO GIUSTO POSTO</p>
-    <p><a class="w3-text-white" href="id_bellezza_1">MATRICE FEMMINILE</a></p> 
+    <p class="w3-text-red w3-tooltip">LIBERAZIONE <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">"perché la persona si blocca"</span>BLOCCHI AUTOCREATI</p>
+    <p class="w3-text-red">COLONNA DI LUCE, RICENTRAGGIO</p>
+    <p><a class="w3-text-white" href="#id_bellezza_1"><href id="id_bellezza_2">MATRICE FEMMINILE</href></a></p> 
     <p>&nbsp;</p> 
     <p class="w3-tooltip">IO RESTO,<span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">sentire di doversi sottomettere</span> IO POSSO; </p><p class="w3-tooltip">DINAMISMO <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">"la vita è dura"</span>INTERIORE </p>
   </div>
@@ -177,6 +197,21 @@ tendenza a subire</p>
   </div>
     <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip"><span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">radicamento</span>RICENTRAGGIO</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+        <p class="w3-tooltip">CLAUSTROFOBIA<span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino con cordone al collo</span></p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p></p>
+    <p>Aver fiducia nel mondo che non è un nemico --></p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red">MEMORIE CELLULARI, RIALLINEAMENTO TRINITARIO</p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p class="w3-tooltip">RICONCILIARSI CON <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round"></span>L'OCCULTO </p>
   </div>
 </div>
 <div class="w3-row">
@@ -236,18 +271,22 @@ stare nella zona -</p>
     <p>CONTROLLO</p>
     <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto indotto</span>
 chi cerca di controllarla, o dirgli cosa fare</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambina voluta mashio</span>
+persona controllante</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
-    <p>collera --></p>
-    <p>non farsi manipolare--></p>
+    <p>collera--> </p>
+    <p>non farsi manipolare--> </p>
+    <p> imparare a lasciare andare--> </p>
   </div>
   <div class="w3-col w3-container m3 l3">  
-    <p class="w3-text-red">ACCETTAZIONE</p>
+    <p class="w3-text-red">ACCETTAZIONE, RICONCILIARSI CON L'OCCULTO</p>
     <p class="w3-text-red">DALLA PRIGIONE ALLE ALI</p>
   </div>
   <div class="w3-col w3-container m1 l2">  
     <p>IO RESTO, IO POSSO</p>
     <p class="w3-text-red">ESPRESSIONE DI SE'</p>
+    <p>CURA DI CARONTE</p>
   </div>
 </div>
 <div class="w3-row">
@@ -320,7 +359,7 @@ Difficoltà ECONOMICHE</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">EMOTIVITA'</p>
+    <p>EMOTIVITA'</p>
   </div>
 </div>
 <div class="w3-row">
@@ -357,16 +396,23 @@ sembrare forti ed indipendenti senza farsi coinvolgere da questioni -</p>
   <div class="w3-col w3-container m4 l3 w3-yellow">
     <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto distocico</span>
 non esprimersi per non ferire</p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambina voluta maschio</span>
+energia forte o aggressiva( si ESPRIME con voce alta )</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
-    <p>ognuno è responsabile della propria vita e sofferenza --></p>
+    <p>ognuno è responsabile della propria vita e sofferenza -->
+    </p>
+    <p>imparare a lasciare andare; essere donna; integrare dolcezza, intuitività e creatività; -->
+    </p>
   </div>
   <div class="w3-col w3-container m3 l3">  
-    <p class="w3-text-red"> ESPRESSIONE DI SE' </p>
+    <p class="w3-text-red">ESPRESSIONE DI SE' </p>
+    <p class="w3-text-red">MATRICE FEMMINILE,FERTILITA' CREATIVITA'</p>
   </div>
     <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip"><span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-green w3-round">Aiuta la persona a
 sentirsi “autorizzata ad essere”.</span>ESPRESSIONE DI SE'</p>
+    <p> RICONCILIARSI CON L'OCCULTO </p>
   </div>
 </div><div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
@@ -498,6 +544,8 @@ per passare da acqua ad aria</p>
     <p>MENTALE</p>
     <p class="w3-tooltip"> &nbsp;&nbsp;&nbsp;⚫ - <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambina voluta maschio</span>
  troppo pesante</p>
+    <p class="w3-tooltip"> &nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino nato con cordone al collo 
+    </span>Separazione tra testa ( pensieri ) e cuore</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
     <p>imparare a lasciarsi andare --></p>
@@ -517,7 +565,7 @@ per passare da acqua ad aria</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip"><span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>
 - DEL PROPRIO POSTO</p>
     <p class="w3-tooltip"> &nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto indotto</span>
 - piegarsi ai CONSIGLI</p>
@@ -551,15 +599,30 @@ a compiere qualcosa</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">NON TOLLERARE Parto indotto</span>
+        <p class="w3-tooltip">NON RIUSCIRE 
+          <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino con cordone al collo
+          </span>A MUOVERSI <BR>(meglio star fermo perché altrimenti soffoco)</p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p>aver fiducia nel mondo che non è un nemico--> </p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red">RIALLINEAMENTO TRINITARIO, </p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p class="w3-tooltip"> LIBERAZIONE BLOCCHI AUTOCREATI</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">NON TOLLERARE <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto indotto</span>
 ritardi, nè contrattempi</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
     <p>lasciarsi trascinare dal flusso della vita --></p>
   </div>
   <div class="w3-col w3-container m3 l3">  
-    <p class="w3-text-blue w3-tooltip">RICONCILIARSI <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-blue w3-round">Aiuta a lasciarsi andare
-e ad affidarsi alla vita</span>CON L'OCCULTO</p>
+    <p class="w3-text-blue w3-tooltip">RICONCILIARSI <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-blue w3-round">Aiuta a lasciarsi andare e ad affidarsi alla vita</span>CON L'OCCULTO</p>
   </div>
     <div class="w3-col w3-container m1 l2">  
     <p>ACCETTAZIONE, CURA DI CARONTE</p>
@@ -567,14 +630,25 @@ e ad affidarsi alla vita</span>CON L'OCCULTO</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">PARTNER <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">bambino voluto femmina</span>
-Attirarne con energia preponderante maschile</p>
+    <p>PARTNER </p>
   </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ Attirare - <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">bambino voluto femmina
+    </span>con energia preponderante maschile
+    </p>
+    <p class="w3-tooltip">&nbsp;&nbsp; ⚫ Attirare - <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">bambina voluta maschio
+    </span>con energia preponderante femminile
+    </p>
+   </div>
   <div class="w3-col w3-container m3 l4">  
     <p>riconoscere la propria potenza --></p>
+    <p>accettare la propria femminilità --></p>
   </div>
   <div class="w3-col w3-container m3 l3">  
-    <p class="w3-text-red">,</p>
+    <p class="w3-text-red">SOLE LUNA,</p>
+    <p class="w3-text-red">SOLE LUNA, CURA DI CARONTE</p>
   </div>
   <div class="w3-col w3-container m1 l2">  
     <p>MATRICE SOLARE</p>
@@ -592,7 +666,7 @@ essere i migliori</p>
     <p class="w3-text-red">"PETALI DEL 6°ch",</p>
   </div>
   <div class="w3-col w3-container m1 l2">  
-    <p><href id="id_bellezza_1">MATRICE FEMMINILE</href></p>
+    <p><href id="id_bellezza_1"><a href="#id_bellezza_2">MATRICE FEMMINILE</a></href></p>
   </div>
 </div>
 <div class="w3-row">
@@ -659,16 +733,16 @@ attitudine artistica eccessiva ( testa tra le nuvole )</p>
     <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambina voluta maschio</span>- la propria femminilità</p>
   </div>
   <div class="w3-col w3-container m3 l4">
-   <p>onorare il proprio spazio e la propria persona --></p>
-   <p>onorare il proprio spazio e la propria persona --></p>
-    <p>saper dir di no <a href="id_accettarsi">(NON dover compiacere tutti per essere amati )</a> --></p>
+    <p>onorare il proprio spazio e la propria persona --></p>
+    <p>onorare il proprio spazio e la propria persona --></p>
+    <p>saper dir di no <a href="#id_accettarsi">(NON dover compiacere tutti per essere amati )</a> --></p>
     <p>accettare la propria femminilità --></p>
   </div>
   <div class="w3-col w3-container m3 l3">
     <p>  </p>
     <p class="w3-text-red">COLONNA DI LUCE</p>
     <p class="w3-text-red">COLONNA DI LUCE</p>
-    <p class="w3-text-red">MATRICE FEMMINILE, FERTILITA' CREATIVITA', SOLE LUNA</p>
+    <p class="w3-text-red">MATRICE FEMMINILE, FERTILITA' CREATIVITA', CURA DI CARONTE</p>
   </div>
   <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip">INSPIRARE <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Impotenza decisionale</span>LA VITA</p>
@@ -718,6 +792,21 @@ attitudine artistica eccessiva ( testa tra le nuvole )</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫<span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto con il forcipe</span> - forzati, sotto pressione
+    </p>
+  </div>
+  <div class="w3-col w3-container m3 l4">  
+    <p>avere fiducia; riconoscere che c'è sempre una luce in fondo al tunnel--> </p>
+  </div>
+  <div class="w3-col w3-container m3 l3">   
+    <p class="w3-tooltip" class="w3-text-red">COLONNA DI LUCE e PETALI, LIBERAZIONE BLOCCHI <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">i primi per "la connessione all'anima" e l'altro perché "la persona si limita"</span>AUTOCREATI</p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p>DALLA PRIGIONE ALLE ALI</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
     <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto cesareo</span>- impotenti </p>
     <p> &nbsp</p>
   </div>
@@ -736,10 +825,10 @@ attitudine artistica eccessiva ( testa tra le nuvole )</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>in COLPA per essere il sopravvissuto</p>
-    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto</span>in COLPA per essere in vita</p>
-    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino nato con sacco amniotico</span>-
-insicurezza in spazi aperti/folle</p>
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>- in COLPA per essere il sopravvissuto</p>
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino non voluto</span>- in COLPA per essere in vita</p>
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino nato con sacco amniotico</span>PROVARE
+INSICUREZZA in spazi aperti/folle</p>
   </div>
   <div class="w3-col w3-container m3 l4">
     <p>responsabilizzarsi --></p>
@@ -759,7 +848,7 @@ insicurezza in spazi aperti/folle</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-        <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>in DEBITO e fare propri gli altrui bisogni</p>
+        <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Perdita gemello</span>- in DEBITO e fare propri gli altrui bisogni</p>
   </div>
   <div class="w3-col w3-container m3 l4">
     <p></p>
@@ -774,7 +863,52 @@ insicurezza in spazi aperti/folle</p>
 </div>
 <div class="w3-row">
   <div class="w3-col w3-container m4 l3 w3-yellow">
-    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto distocico</span>
+        <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino con cordone al collo</span>- MALE quando è il momento di "passare all'azione"</p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p>aver fiducia nel mondo che non è un nemico--> </p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red">RIALLINEAMENTO TRINITARIO, </p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p class="w3-tooltip"> LIBERAZIONE BLOCCHI AUTOCREATI</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+        <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto con il forcipe/forzato</span>- MENO degli altri</p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p></p>
+    <p>affermarsi nel gruppo anche in relazione agli altri--> </p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red"> PETALI DEI CHAKRA (6°), LIBERAZIONE BLOCCHI AUTOCREATI </p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p class="w3-tooltip">"ESPRESSIONE DI SE'"</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+        <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ 
+          <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambino con cordone al collo 
+          </span>- in PERICOLO quando non c'è un salvatore</p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p>aver fiducia nel mondo che non è un nemico--> </p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red">RIALLINEAMENTO TRINITARIO, </p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p class="w3-tooltip"> LIBERAZIONE BLOCCHI AUTOCREATI</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Parto distocico</span>-
 TOSSICI</p>
   </div>
   <div class="w3-col w3-container m3 l4">  
@@ -785,6 +919,26 @@ TOSSICI</p>
   </div>
     <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip">INSPIRARE LA <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">mancanza di gioia per mal di vivere, tristezza, restrizioni, idealismi o aspettative da parte dei genitori</span>VITA</p>
+  </div>
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">SESSUALITA' e l'ENERGIA S.</p>
+  </div>    
+</div>
+<div class="w3-row">
+  <div class="w3-col w3-container m4 l3 w3-yellow">
+    <p class="w3-tooltip">&nbsp;&nbsp;&nbsp;⚫ <span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">Bambina voluta maschio</span>
+Difficoltà con la -</p>
+  </div>
+  <div class="w3-col w3-container m3 l4">
+    <p>accettare la propria femminilità; integrare dolcezza, intuitività e creatività --></p>
+  </div>
+  <div class="w3-col w3-container m3 l3">
+    <p class="w3-text-red">FERTILITA' CREATIVITA', CURA DI CARONTE</p>
+  </div>
+  <div class="w3-col w3-container m1 l2">  
+    <p>MATRICE FEMMINILE</p>
   </div>
 </div>
 <div class="w3-row">
