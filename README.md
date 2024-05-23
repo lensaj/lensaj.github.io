@@ -12,24 +12,24 @@
 
 <div class="w3-container">
   <h3>Scorrere con il mouse per le sovraimpressioni</h3>
-  <p class="w3-large w3-text-red">Tipologie di parto</p>
+  <p class="w3-large w3-text-red">Per la tipologie di parto</p>
   <p class="w3-large w3-text-blue">Appunti</p>
   <p class="w3-large w3-text-green">Riepilogo Trattamenti e quando servono</p>
 </div>
 
 <div class="w3-row">
-  <div class="w3-col m1 w3-center w3-grey">1</div>
-  <div class="w3-col m1 w3-center">2</div>
-  <div class="w3-col m1 w3-center w3-grey">3</div>
-  <div class="w3-col m1 w3-center">4</div>
-  <div class="w3-col m1 w3-center w3-grey">5</div>
-  <div class="w3-col m1 w3-center">6</div>
-  <div class="w3-col m1 w3-center w3-grey">7</div>
-  <div class="w3-col m1 w3-center">8</div>
-  <div class="w3-col m1 w3-center w3-grey">9</div>
-  <div class="w3-col m1 w3-center">10</div>
-  <div class="w3-col m1 w3-center w3-grey">11</div>
-  <div class="w3-col m1 w3-center">12</div>
+  <div class="w3-col m1 w3-center w3-grey">Forme</div>
+  <div class="w3-col m1 w3-center">Pensiero</div>
+  <div class="w3-col m1 w3-center w3-grey">&nbsp;</div>
+  <div class="w3-col m1 w3-center">Altri</div>
+  <div class="w3-col m1 w3-center w3-grey">elementi</div>
+  <div class="w3-col m1 w3-center">di</div>
+  <div class="w3-col m1 w3-center w3-grey">contesto</div>
+  <div class="w3-col m1 w3-center">Trattamenti</div>
+  <div class="w3-col m1 w3-center w3-grey">prima</div>
+  <div class="w3-col m1 w3-center">scelta</div>
+  <div class="w3-col m1 w3-center w3-grey"> </div>
+  <div class="w3-col m1 w3-center">Altri</div>
 </div>
 
 <div class="w3-row">
@@ -193,7 +193,7 @@ ciò che tocco lo rovino</p>
     <p> --></p>
   </div>
   <div class="w3-col w3-container m3 l3">  
-    <p class="w3-text-red">, </p>
+    <p class="w3-text-red">PETALI dei CH. </p>
   </div>
     <div class="w3-col w3-container m1 l2">  
     <p class="w3-tooltip"><span style="position:absolute;left:0;bottom:18px" class="w3-text w3-tag w3-red w3-round">radicamento</span>RICENTRAGGIO</p>
